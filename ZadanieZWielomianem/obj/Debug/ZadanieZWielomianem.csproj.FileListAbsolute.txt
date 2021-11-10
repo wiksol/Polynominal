@@ -1,0 +1,7 @@
+C:\Users\wikto\Desktop\wielomian\ZadanieZWielomianem\ZadanieZWielomianem\bin\Debug\ZadanieZWielomianem.exe.config
+C:\Users\wikto\Desktop\wielomian\ZadanieZWielomianem\ZadanieZWielomianem\bin\Debug\ZadanieZWielomianem.exe
+C:\Users\wikto\Desktop\wielomian\ZadanieZWielomianem\ZadanieZWielomianem\bin\Debug\ZadanieZWielomianem.pdb
+C:\Users\wikto\Desktop\wielomian\ZadanieZWielomianem\ZadanieZWielomianem\obj\Debug\ZadanieZWielomianem.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\wielomian\ZadanieZWielomianem\ZadanieZWielomianem\obj\Debug\ZadanieZWielomianem.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\wielomian\ZadanieZWielomianem\ZadanieZWielomianem\obj\Debug\ZadanieZWielomianem.exe
+C:\Users\wikto\Desktop\wielomian\ZadanieZWielomianem\ZadanieZWielomianem\obj\Debug\ZadanieZWielomianem.pdb
